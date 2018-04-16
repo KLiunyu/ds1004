@@ -19,7 +19,6 @@ cl4055
 * | b6e04c0 2nd commit (1st on testing).
 |/  
 * d748e0a 1st commit (1st on msater).
-
 hz1625
 *   f50a80b 9th commit (3rd on testing2).
 |\  
@@ -39,4 +38,23 @@ hz1625
 * | d751d87 2nd commit (2nd on master).
 |/  
 * 4b00ec1 1st commit (1st on master).
-
+ns3783
+*   037cca4 9th commit (3rd on testing2).
+|\  
+| *   4e21fc8 7th commit (3rd on testing1).
+| |\  
+| * | 77ff3b5 6th commit (2nd on testing1).
+* | |   83fe7f8 8th commit (2nd on testing2).
+|\ \ \  
+| | |/  
+| |/|   
+| * |   b019f18 5th commit (3rd on master).
+| |\ \  
+| | |/  
+| | * d499c76 3rd commit (1st on testing1).
+* | | 7c83808 4th commit (1st on testing2).
+|/ /  
+* | b15513a 2nd commit (2nd on master).
+|/  
+* ea48d4e 1st commit (1st on master).
+>>>>>>> a86158c051d21d016803bc41dd9b43ecac0d2d4c
